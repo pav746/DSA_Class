@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pav746/DSA_Class/tree/master/0033-search-in-rotated-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/pav746/DSA_Class/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
