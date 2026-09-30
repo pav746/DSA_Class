@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/pav746/DSA_Class/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/pav746/DSA_Class/tree/master/0077-combinations) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pav746/DSA_Class/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pav746/DSA_Class/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
