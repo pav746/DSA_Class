@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pav746/DSA_Class/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pav746/DSA_Class/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/pav746/DSA_Class/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/pav746/DSA_Class/tree/master/0206-reverse-linked-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pav746/DSA_Class/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/pav746/DSA_Class/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -48,5 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pav746/DSA_Class/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/pav746/DSA_Class/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pav746/DSA_Class/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pav746/DSA_Class/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
