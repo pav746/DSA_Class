@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pav746/DSA_Class/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/pav746/DSA_Class/tree/master/0039-combination-sum) |
+| [0200-number-of-islands](https://github.com/pav746/DSA_Class/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,12 +69,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pav746/DSA_Class/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/pav746/DSA_Class/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pav746/DSA_Class/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/pav746/DSA_Class/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pav746/DSA_Class/tree/master/0133-clone-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pav746/DSA_Class/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pav746/DSA_Class/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
